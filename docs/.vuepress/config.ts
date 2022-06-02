@@ -6,7 +6,7 @@ export default defineUserConfig({
   title: "Theme Demo",
   description: "A demo for vuepress-theme-hope",
 
-  base: "/",
+  base: "/leandro-pweb/",
 
   theme,
 });
