@@ -1,13 +1,6 @@
 ---
-# This control sidebar index
-order: 1
 # This is the icon of the page
 icon: page
-# This is the title of the article
-title: page config
-# Set author
-author: Ms.Hope
-# Set writing time
 date: 2020-01-01
 # A page can have multiple categories
 category:
@@ -16,13 +9,8 @@ category:
 tag:
   - Page config
   - Guide
-# this page is sticky in article list
-sticky: true
-# this page will appear in article channel in home page
-star: true
-# You can customize the footer
-footer: Footer content for test
 ---
+# Page config
 
 Content before `more` comment is regarded as page excerpt.
 

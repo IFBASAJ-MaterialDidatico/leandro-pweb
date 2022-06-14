@@ -2,9 +2,9 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme";
 
 export default defineUserConfig({
-  lang: "en-US",
-  title: "Theme Demo",
-  description: "A demo for vuepress-theme-hope",
+  lang: "pt-BR",
+  title: "PWEB",
+  description: "Material de Aula para a disciplina Programação WEB",
 
   base: "/leandro-pweb/",
 

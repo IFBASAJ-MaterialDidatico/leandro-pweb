@@ -1,21 +1,21 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar([
+  "/sumario",
   "/",
-  "/home",
-  "/slide",
-  {
+/*  {
     icon: "creative",
     text: "Guide",
     prefix: "/guide/",
     link: "/guide/",
     children: "structure",
-  },
+  },*/
   {
-    text: "Articles",
+    text: "Aulas",
     icon: "note",
-    prefix: "/posts/",
+    prefix: "/aulas/",
     children: [
+      { text: "Apresentação", icon: "edit", link: "" },
       {
         text: "Articles 1-4",
         icon: "note",

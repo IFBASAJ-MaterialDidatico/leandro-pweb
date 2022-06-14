@@ -10,8 +10,8 @@ tag:
 navbar: false
 sidebar: false
 
-breadcrumb: false
-pageInfo: false
+breadcrumb: true
+pageInfo: true
 contributors: false
 editLink: false
 lastUpdated: false

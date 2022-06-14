@@ -1,14 +1,15 @@
 import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
+  "/sumario",
   "/",
-  "/home",
-  { text: "Guide", icon: "creative", link: "/guide/" },
+  //{ text: "Guide", icon: "creative", link: "/guide/" },
   {
-    text: "Posts",
+    text: "Aulas",
     icon: "edit",
-    prefix: "/posts/",
+    prefix: "/aulas/",
     children: [
+      { text: "Apresentação", icon: "edit", link: "" },
       {
         text: "Articles 1-4",
         icon: "edit",
@@ -44,9 +45,5 @@ export default navbar([
       "article12",
     ],
   },
-  {
-    text: "Theme Docs",
-    icon: "note",
-    link: "https://vuepress-theme-hope.github.io/v2/",
-  },
+
 ]);
