@@ -9,6 +9,7 @@ export default hopeTheme({
     name: "Leandro Souza",
   },
 
+  iconAssets: "iconfont",
   
   logo: "/logo.svg",
 
