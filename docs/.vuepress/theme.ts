@@ -63,6 +63,13 @@ export default hopeTheme({
       //Zhihu: "https://example.com",
     },
   },
+  
+  encrypt: {
+    config: {
+      "/guide/encrypt.html": ["1234"],
+    },
+  },
+
 
   plugins: {
     blog: {
