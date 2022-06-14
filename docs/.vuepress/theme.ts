@@ -9,6 +9,7 @@ export default hopeTheme({
     name: "Leandro Souza",
   },
 
+  iconAssets: "iconfont",
   
   logo: "/logo.svg",
 
@@ -60,6 +61,13 @@ export default hopeTheme({
       //Whatsapp: "https://example.com",
       //Youtube: "https://example.com",
       //Zhihu: "https://example.com",
+    },
+  },
+  
+  encrypt: {
+    config: {
+     // "/aulas/": ["1234"],
+      "/guide/encrypt.html": ["1234"],
     },
   },
 

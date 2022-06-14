@@ -1,3 +1,7 @@
+---
+pageInfo: false
+---
+
 ## Referências
 
 [^k19oo2015]: K19-Treinamentos. (2015). Desenvolvimento Web com JSF2 e JPA2.
