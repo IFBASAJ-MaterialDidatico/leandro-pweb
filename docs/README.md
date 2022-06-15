@@ -10,7 +10,7 @@ actions:
     link: /sumario
     type: primary
 
-  - text: Início 🏃
+  - text: Início ⏯️
     link: /aulas/
 copyright: false
 ---

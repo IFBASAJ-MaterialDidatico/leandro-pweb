@@ -15,7 +15,7 @@ export default navbar([
         icon: "edit",
         prefix: "article/",
         children: [
-          { text: "Article 1", icon: "edit", link: "article1" },
+          "article1",
           "article4",
         ],
       },
@@ -23,16 +23,13 @@ export default navbar([
         text: "Articles 5-12",
         icon: "edit",
         children: [
-          {
-            text: "Article 5",
-            icon: "edit",
-            link: "article/article5",
-          },
+          "article/article5",
           "article/article8",
         ],
       },
-      { text: "Article 9", icon: "edit", link: "article9" },
+      "article9" ,
       "article12",
+      "printPage",
     ],
   },
 

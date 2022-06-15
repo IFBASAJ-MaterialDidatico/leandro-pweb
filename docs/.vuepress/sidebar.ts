@@ -15,7 +15,7 @@ export default sidebar([
     icon: "note",
     prefix: "/aulas/",
     children: [
-      { text: "Apresentação", icon: "edit", link: "/aulas/" },
+      "",
       {
         text: "Articles 1-4",
         icon: "note",
@@ -37,7 +37,7 @@ export default sidebar([
           {
             text: "Articles 9-12",
             icon: "note",
-            children: ["article9", "article12"],
+            children: ["article9", "article12", "printPage"],
           },
         ],
       },

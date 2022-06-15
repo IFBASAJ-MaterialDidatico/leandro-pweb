@@ -1,5 +1,7 @@
 ---
-icon: edit
+layout: Draft
+icon: lock
+article: false
 date: 2022-01-09
 category:
   - CategoryA
@@ -8,7 +10,6 @@ tag:
   - tag A
   - tag B
 ---
-
 # Article 9
 
 ## Heading 2
