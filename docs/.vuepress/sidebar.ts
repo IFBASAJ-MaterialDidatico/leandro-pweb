@@ -21,7 +21,7 @@ export default sidebar([
         icon: "note",
         collapsable: true,
         prefix: "article/",
-        children: ["article1", "article2", "article3", "article4"],
+        children: ["article1", "article4"],
       },
       {
         text: "Articles 5-12",
@@ -32,12 +32,12 @@ export default sidebar([
             icon: "note",
             collapsable: true,
             prefix: "article/",
-            children: ["article5", "article6", "article7", "article8"],
+            children: ["article5", "article8"],
           },
           {
             text: "Articles 9-12",
             icon: "note",
-            children: ["article9", "article10", "article11", "article12"],
+            children: ["article9", "article12"],
           },
         ],
       },
