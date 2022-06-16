@@ -21,7 +21,7 @@ head:
   - - link
     - rel: stylesheet
       type: text/css
-      href: /style.css
+      href: ../style.css
 ---
 
 # paged polyfill
@@ -107,13 +107,13 @@ export default {
   mounted () {
     //import('./lib-that-access-window-on-import').then(module => {
       //console.log('hello script setup')
-      console.log(document)
+//      console.log(document)
       //window.alert();
-      document.querySelector("#app > span").remove();
-      document.querySelector("#app > a").remove();
-      document.querySelector("#app > div > div").remove();
-      document.querySelector("#app > div > aside").remove();
-      document.querySelector("#main-content > nav").remove();
+//      document.querySelector("#app > span").remove();
+//      document.querySelector("#app > a").remove();
+//      document.querySelector("#app > div > div").remove();
+//      document.querySelector("#app > div > aside").remove();
+//      document.querySelector("#main-content > nav").remove();
       
       let paged = new Previewer();
       paged.preview();
