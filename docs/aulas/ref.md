@@ -14,3 +14,5 @@ pageInfo: false
 [^caelumoo]: Caelum. Desenvolvimento Web com HTML, CSS e JavaScript - Curso WD-43.
 
 [^caelumoo2]: Caelum. Java para Desenvolvimento Web - Curso FJ-21.
+
+[^UalterDevmedia]:Ualter Devmedia. Orientação a SOA! [https://www.devmedia.com.br/orientacao-a-soa/26551](https://www.devmedia.com.br/orientacao-a-soa/26551). (Acessado em 18/06/2022)
